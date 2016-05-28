@@ -15,13 +15,13 @@ FILENAME: hotzone.png
 %%
 HOTZONE
 ID: hz_map01exit
-COLOUR=255,0,0
+COLOUR: 255,0,0
 %%
 ENTITIES
-FILENAME=entities.png
+FILENAME: entities.png
 %%
 ENTITY
-ID=ent_player
-COLOUR=255,0,0
+ID: ent_player
+COLOUR: 255,0,0
 %%
 

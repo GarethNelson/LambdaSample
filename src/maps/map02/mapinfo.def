@@ -14,14 +14,14 @@ HOTZONES
 FILENAME: hotzone.png
 %%
 ENTITIES
-FILENAME=entities.png
+FILENAME: entities.png
 %%
 ENTITY
-ID=ent_player
-COLOUR=255,0,0
+ID: ent_player
+COLOUR: 255,0,0
 %%
 ENTITY
-ID=ent_button
-COLOUR=254,0,0
+ID: ent_button
+COLOUR: 254,0,0
 %%
 
