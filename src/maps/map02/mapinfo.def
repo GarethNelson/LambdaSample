@@ -1,0 +1,27 @@
+MAPINFO
+MAPNAME: Entity test map
+TILERESW: 64
+TILERESH: 64
+%%
+VISUAL
+FILENAME: visual.png
+%%
+COLLISION
+FILENAME: collision.png
+COLOUR: 255,0,0
+%%
+HOTZONES
+FILENAME: hotzone.png
+%%
+ENTITIES
+FILENAME=entities.png
+%%
+ENTITY
+ID=ent_player
+COLOUR=255,0,0
+%%
+ENTITY
+ID=ent_button
+COLOUR=254,0,0
+%%
+
